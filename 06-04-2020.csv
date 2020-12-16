@@ -2,6 +2,10 @@ Id,Name,Region,Address,City,Last_Update,Lat,Long_,Phone,Whatsapp,Active,status,C
 1,MapApp,"Haifa, Israël","Ze'ev Shoham 47-25, 82110",Haifa,2020-09-22,32.793846, 34.989653,"05242344324",+972632284421,Yes,true,Category3
 2,MapApp,"Delhi, India","99-Test2 Test2 Test3 Test4 Test5, 123456",Delhi,2020-09-22,28.644800,77.216721,"05242344324",+972632284421,Yes,false,Category3
 3,MapApp,"Surat, India","Test3, 789456",Surat,2020-09-22,21.192572,72.799736,"05242344324",+972632284421,Yes,false,Category2
+4,MapApp,"Haifa, Israël","Ze'ev Shoham 4, 82110",Haifa,2020-09-22,32.793746, 34.989753,"05242344324",+972632284421,Yes,true,Category3
+5,MapApp,"Haifa, Israël","Ze'ev Shoham 5, 82110",Haifa,2020-09-22,32.793246, 34.989853,"05242344324",+972632284421,Yes,true,Category3
+6,MapApp,"Haifa, Israël","Ze'ev Shoham 6, 82110",Haifa,2020-09-22,32.793546, 34.989553,"05242344324",+972632284421,Yes,true,Category3
+7,MapApp,"Haifa, Israël","Ze'ev Shoham 7, 82110",Haifa,2020-09-22,32.793446, 34.989253,"05242344324",+972632284421,Yes,true,Category3
 
 
 
